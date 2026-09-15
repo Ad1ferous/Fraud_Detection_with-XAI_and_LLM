@@ -1,1 +1,9 @@
-
+catboost
+fastapi
+uvicorn
+mlflow
+great-expectations
+evidently
+pytest
+pandas
+scikit-learn

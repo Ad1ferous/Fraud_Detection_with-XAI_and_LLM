@@ -1,4 +1,4 @@
-# Лекция 6. Валидация данных и проверка качества
+# Лекция 6. Качество данных и data validation
 
 **Ссылка на рабочий ноутбук:** [Наш Google Colab с валидацией данных](https://colab.research.google.com/drive/1OYYCcy_QqFwcDWPWCJEyrml6MFQUAjTt?usp=sharing)
 

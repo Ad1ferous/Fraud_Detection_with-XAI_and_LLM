@@ -1,4 +1,4 @@
-# Лекция 7. Тест-план и тестирование модели (Pytest)
+# Лекция 7. Качество и тестирование моделей.
 
 **Ссылка на рабочий ноутбук:** [Наш Google Colab с pytest-тестами](https://colab.research.google.com/drive/1c41z5W9JH2Oq56W17f5-51s1RDkAxVPd?usp=sharing)
 

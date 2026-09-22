@@ -1,4 +1,4 @@
-# Лекция 8. Тестовая стратегия проекта (Unit, Integration, E2E)
+# Лекция 8. Тестирование ИИ-компонентов в системе
 
 **Ссылка на рабочий ноутбук:** [Наш Google Colab с тестами стратегии](https://colab.research.google.com/drive/1-FDGyaKKnuORZdlrDfKUJl6PQvYpI6HC?usp=sharing)
 

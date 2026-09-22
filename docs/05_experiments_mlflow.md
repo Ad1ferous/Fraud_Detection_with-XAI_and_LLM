@@ -1,4 +1,4 @@
-# Лекция 5. Отчёт по трекингу экспериментов (MLflow)
+# Лекция 5. Трекинг экспериментов (MLflowW&B)
 
 **Ссылка на рабочий ноутбук:** [Наш Google Colab с кодом экспериментов](https://colab.research.google.com/drive/1-QzhhzPMzuVS6DwMSqcgBIHQWN-0unhk?usp=sharing)
 

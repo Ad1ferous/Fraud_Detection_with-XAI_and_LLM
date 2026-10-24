@@ -27,6 +27,13 @@
 │   ├── 02_architecture.md  # Архитектура сервиса
 │   ├── 03_contract.md      # Контракт ML-сервиса
 │   ├── 04_mlops_profile.md # MLOps-профиль компании
+│   ├── 05_experiments_mlflow.md # MLOps эксперименты
+│   ├── 06_data_validation.md # Валидация данных
+│   ├── 07_model_testing.md # Валидация данных
+│   ├── 08_testing_strategy.md # Стратегия тестирования
+│   ├── 09_api_for_ML.md # Проектирование API для ML
+│   ├── 10_deploy_strategy.md # Стратегия деплоя
+│   ├── 11, 12_deploy_and_support.md # Деплой и поддержка
 ├── data/                   # Ссылки на данные и скрипты загрузки
 ├── notebooks/              # EDA и эксперименты (Jupyter)
 ├── src/                    # Исходный код сервиса

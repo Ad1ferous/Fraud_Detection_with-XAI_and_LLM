@@ -21,25 +21,18 @@
 
 ## Структура репозитория
 ```text
-├── README.md               # Этот файл
-├── docs/                   # Отчеты по лекциям и итоговая документация
-│   ├── 01_lifecycle.md     # Жизненный цикл ИИ-системы
-│   ├── 02_architecture.md  # Архитектура сервиса
-│   ├── 03_contract.md      # Контракт ML-сервиса
-│   ├── 04_mlops_profile.md # MLOps-профиль компании
-│   ├── 05_experiments_mlflow.md # MLOps эксперименты
-│   ├── 06_data_validation.md # Валидация данных
-│   ├── 07_model_testing.md # Валидация данных
-│   ├── 08_testing_strategy.md # Стратегия тестирования
-│   ├── 09_api_for_ML.md # Проектирование API для ML
-│   ├── 10_deploy_strategy.md # Стратегия деплоя
+├── README.md                        # Этот файл
+├── docs/                            # Отчеты по лекциям и итоговая документация
+│   ├── 01_lifecycle.md              # Жизненный цикл ИИ-системы
+│   ├── 02_architecture.md           # Архитектура сервиса
+│   ├── 03_contract.md               # Контракт ML-сервиса
+│   ├── 04_mlops_profile.md          # MLOps-профиль компании
+│   ├── 05_experiments_mlflow.md     # MLOps эксперименты
+│   ├── 06_data_validation.md        # Валидация данных
+│   ├── 07_model_testing.md          # Валидация данных
+│   ├── 08_testing_strategy.md       # Стратегия тестирования
+│   ├── 09_api_for_ML.md             # Проектирование API для ML
+│   ├── 10_deploy_strategy.md        # Стратегия деплоя
 │   ├── 11, 12_deploy_and_support.md # Деплой и поддержка
-├── data/                   # Ссылки на данные и скрипты загрузки
-├── notebooks/              # EDA и эксперименты (Jupyter)
-├── src/                    # Исходный код сервиса
-│   ├── api/                # FastAPI эндпоинты
-│   ├── ml/                 # Логика модели и предобработки
-│   └── llm/                # Модуль работы с LLM для объяснений
-├── tests/                  # Автотесты (pytest)
-├── docker/                 # Dockerfile и docker-compose
+│   ├── 13_drift_strategy.md         # Стратегия обнаружения дрейфа
 └── requirements.txt        # Зависимости Python

@@ -35,4 +35,3 @@
 │   ├── 10_deploy_strategy.md        # Стратегия деплоя
 │   ├── 11, 12_deploy_and_support.md # Деплой и поддержка
 │   ├── 13_drift_strategy.md         # Стратегия обнаружения дрейфа
-└── requirements.txt        # Зависимости Python
